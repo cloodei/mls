@@ -1,6 +1,4 @@
-def main():
-    print("Hello from mls!")
-
-
-if __name__ == "__main__":
-    main()
+i = 1
+i = i = i = 2 = 3 = 4
+# wth
+# ?
